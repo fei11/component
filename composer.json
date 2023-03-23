@@ -14,10 +14,10 @@
     "require": {
         "php": ">=7.1.0",
         "ext-swoole":">=4.4.2",
-        "fei11/spl": "^2.0"
+        "fei11/spl": "*"
     },
     "require-dev": {
-        "fei11/phpunit": "^1.0",
+        "fei11/phpunit": "*",
         "easyswoole/swoole-ide-helper": "^1.2"
     },
     "autoload": {
